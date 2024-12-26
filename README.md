@@ -1,3 +1,4 @@
+# Báo cáo: https://docs.google.com/document/d/1dVKRer6Uyf9Xuq-am_gojWD4Z8JABIEEPN0w-DPlJ14/edit?tab=t.0#heading=h.gjdgxs
 # Thiết kế website 
 Chủ đề: bán hàng online \
 Loại sản phẩm kinh doanh: trà sữa
